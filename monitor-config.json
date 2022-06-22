@@ -1,7 +1,7 @@
 {
   "name": "Defender Monitor Config",
   "protocol": "Compound",
-  "address": "0x123",
-  "manifestCID": "987",
-  "botID": "34245232"
+  "address": "0x2ED2A1d9a6A08dd106ee0F313Ef0cC52cCbf0D1A",
+  "manifestCID": "QmPh4e7fneVXc4zWMivC2mCR8RFRs7bUNV6a2E8uoyjaqt",
+  "botID": "0x60c869bce9acea37994f5cdbc899c6ff6e0c7aeab1498b771a8fda0f264f7ebf"
 }
