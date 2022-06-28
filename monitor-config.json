@@ -1,4 +1,14 @@
 {
-  "name": "Defender Monitor Config",
-  "manifestCID": "QmV7FeohfSF5U9BMmV1h5s71sxLsv1ABqUr7bd99v77mf3"
-}
+    "name": "Defender Monitor Config",
+    "bundles": [
+      {
+        "path": "monitor-config.json",
+        "autotask": "Example",
+        "sentinel": "Example",
+        "manifestCID": "QmV7FeohfSF5U9BMmV1h5s71sxLsv1ABqUr7bd99v77mf3",
+        "botID": "0xb813f15a1eae346806bb214543d5eca4f8632bd686bd5406aa9d83761927d18c",
+        "deployDate": "dateOfDeployment",
+        "updatedDate": "dateOfUpdate"
+      }
+    ]
+  }
