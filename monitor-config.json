@@ -5,8 +5,8 @@
         "path": "monitor-config.json",
         "autotask": "Example",
         "sentinel": "Example",
-        "oldManifestCID": "QmV7FeohfSF5U9BMmV1h5s71sxLsv1ABqUr7bd99v77mf3",
-        "manifestCID": "QmPcVKZDzMeQS5vWGeVXT1uwyjkpdzXg4TBKyssbHVX1r8",
+        "manifestCID": "QmV7FeohfSF5U9BMmV1h5s71sxLsv1ABqUr7bd99v77mf3",
+        "oldmanifestCID": "QmPcVKZDzMeQS5vWGeVXT1uwyjkpdzXg4TBKyssbHVX1r8",
         "botID": "0xb813f15a1eae346806bb214543d5eca4f8632bd686bd5406aa9d83761927d18c",
         "deployDate": "dateOfDeployment",
         "updatedDate": "dateOfUpdate"
