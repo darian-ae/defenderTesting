@@ -1,6 +1,6 @@
 {
     "name": "Defender Monitor Config",
-    "bundles": [
+    "bundlesToDeploy": [
       {
         "path": "monitor-config.json",
         "autotask": "Example",
